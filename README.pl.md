@@ -71,7 +71,7 @@ Zrób to na iPhonie, w Safari. Zrzuty ekranu pochodzą z USOSweb jednej uczelni 
    Safari.open("scriptable:///run/" + encodeURIComponent("USOS Widget"));
    ```
 
-   <img src="docs/img/ios-2-copy.png" width="260">
+   <img src="docs/img/ios-2-copy.jpg" width="420">
 
 2. Otwórz **Scriptable** → dotknij **+** w prawym górnym rogu → dotknij pustej strony → **Wklej**.
 
@@ -79,7 +79,7 @@ Zrób to na iPhonie, w Safari. Zrzuty ekranu pochodzą z USOSweb jednej uczelni 
 
 3. Dotknij **▶** w prawym dolnym rogu. Pobierze to **USOS Widget** i od razu go uruchomi. Jeśli nic się nie otworzy, dotknij **Done**, a potem **USOS Widget** na liście skryptów.
 
-   <img src="docs/img/ios-4-run.jpg" width="300">
+   <img src="docs/img/ios-4-run.jpg" width="260">
 
 ### Krok 4. Wklej link
 
@@ -87,22 +87,20 @@ Pojawi się okno **Twój link z USOS**. Dotknij pola → **Wklej** → **Zapisz*
 
 Gdy Scriptable zapyta o powiadomienia, dotknij **Pozwalaj** — tak dowiesz się o zmianach w planie.
 
-<img src="docs/img/ios-5-link.png" width="260"> <img src="docs/img/ios-6-list.png" width="260">
+<img src="docs/img/ios-5-link.jpg" width="260"> <img src="docs/img/ios-6-list.jpg" width="260">
 
 ### Krok 5. Dodaj widżet
 
 1. Na ekranie głównym przytrzymaj puste miejsce, aż ikony zaczną drgać. Dotknij **Edytuj** w lewym górnym rogu (w starszym iOS: **+**) → **Dodaj widżet**.
 2. Znajdź **Scriptable** i wybierz rozmiar: **mały** = najbliższe zajęcia, **średni** lub **duży** = plan → **Dodaj widżet**.
 
-   <img src="docs/img/ios-7-add-widget.png" width="260">
-
 3. Przytrzymaj nowy widżet → **Edytuj widżet** → **Script** → **USOS Widget**. Dotknij poza oknem.
 
-   <img src="docs/img/ios-8-edit-widget.png" width="260"> <img src="docs/img/ios-9-home.png" width="260">
+   <img src="docs/img/ios-8-edit-widget.jpg" width="560">
+
+   <img src="docs/img/ios-9-home.jpg" width="420">
 
 **Ekran blokady (opcjonalnie):** przytrzymaj ekran blokady → **Dostosuj** → **Ekran blokady** → dotknij miejsca pod zegarem → **Scriptable** → wybierz widżet → dotknij go → **Script: USOS Widget**.
-
-<img src="docs/img/ios-10-lockscreen.png" width="260">
 
 > Instalator możesz już usunąć: w Scriptable przesuń w lewo **Untitled Script** → **Delete**. Albo zostaw go, żeby później zaktualizować USOS Widget.
 

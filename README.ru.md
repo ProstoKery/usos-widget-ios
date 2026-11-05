@@ -71,7 +71,7 @@
    Safari.open("scriptable:///run/" + encodeURIComponent("USOS Widget"));
    ```
 
-   <img src="docs/img/ios-2-copy.png" width="260">
+   <img src="docs/img/ios-2-copy.jpg" width="420">
 
 2. Открой **Scriptable** → нажми **+** в правом верхнем углу → нажми на пустую страницу → **Вставить**.
 
@@ -79,7 +79,7 @@
 
 3. Нажми **▶** в правом нижнем углу. Это скачает **USOS Widget** и сразу его запустит. Если ничего не открылось, нажми **Done**, а потом **USOS Widget** в списке скриптов.
 
-   <img src="docs/img/ios-4-run.jpg" width="300">
+   <img src="docs/img/ios-4-run.jpg" width="260">
 
 ### Шаг 4. Вставь ссылку
 
@@ -87,22 +87,20 @@
 
 Когда Scriptable спросит про уведомления, нажми **Разрешить** — так ты будешь узнавать об изменениях в расписании.
 
-<img src="docs/img/ios-5-link.png" width="260"> <img src="docs/img/ios-6-list.png" width="260">
+<img src="docs/img/ios-5-link.jpg" width="260"> <img src="docs/img/ios-6-list.jpg" width="260">
 
 ### Шаг 5. Добавь виджет
 
 1. На рабочем столе удерживай пустое место, пока иконки не начнут дрожать. Нажми **Править** в левом верхнем углу (в старых iOS: **+**) → **Добавить виджет**.
 2. Найди **Scriptable** и выбери размер: **маленький** = ближайшая пара, **средний** или **большой** = расписание → **Добавить виджет**.
 
-   <img src="docs/img/ios-7-add-widget.png" width="260">
-
 3. Удерживай новый виджет → **Изменить виджет** → **Script** → **USOS Widget**. Нажми за пределами окна.
 
-   <img src="docs/img/ios-8-edit-widget.png" width="260"> <img src="docs/img/ios-9-home.png" width="260">
+   <img src="docs/img/ios-8-edit-widget.jpg" width="560">
+
+   <img src="docs/img/ios-9-home.jpg" width="420">
 
 **Экран блокировки (по желанию):** удерживай экран блокировки → **Настроить** → **Экран блокировки** → нажми на место под часами → **Scriptable** → выбери виджет → нажми на него → **Script: USOS Widget**.
-
-<img src="docs/img/ios-10-lockscreen.png" width="260">
 
 > Установщик теперь можно удалить: в Scriptable проведи влево по **Untitled Script** → **Delete**. Или оставь его, чтобы потом обновить USOS Widget.
 

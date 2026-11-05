@@ -71,7 +71,7 @@
    Safari.open("scriptable:///run/" + encodeURIComponent("USOS Widget"));
    ```
 
-   <img src="docs/img/ios-2-copy.png" width="260">
+   <img src="docs/img/ios-2-copy.jpg" width="420">
 
 2. Відкрий **Scriptable** → натисни **+** у правому верхньому куті → натисни на порожню сторінку → **Вставити**.
 
@@ -79,7 +79,7 @@
 
 3. Натисни **▶** у правому нижньому куті. Це завантажить **USOS Widget** і одразу його запустить. Якщо нічого не відкрилося, натисни **Done**, а потім **USOS Widget** у списку скриптів.
 
-   <img src="docs/img/ios-4-run.jpg" width="300">
+   <img src="docs/img/ios-4-run.jpg" width="260">
 
 ### Крок 4. Встав посилання
 
@@ -87,22 +87,20 @@
 
 Коли Scriptable запитає про сповіщення, натисни **Дозволити** — так ти дізнаватимешся про зміни в розкладі.
 
-<img src="docs/img/ios-5-link.png" width="260"> <img src="docs/img/ios-6-list.png" width="260">
+<img src="docs/img/ios-5-link.jpg" width="260"> <img src="docs/img/ios-6-list.jpg" width="260">
 
 ### Крок 5. Додай віджет
 
 1. На робочому столі утримуй порожнє місце, доки іконки не почнуть тремтіти. Натисни **Редагувати** у лівому верхньому куті (у старших iOS: **+**) → **Додати віджет**.
 2. Знайди **Scriptable** і обери розмір: **маленький** = найближча пара, **середній** або **великий** = розклад → **Додати віджет**.
 
-   <img src="docs/img/ios-7-add-widget.png" width="260">
-
 3. Утримуй новий віджет → **Редагувати віджет** → **Script** → **USOS Widget**. Натисни поза вікном.
 
-   <img src="docs/img/ios-8-edit-widget.png" width="260"> <img src="docs/img/ios-9-home.png" width="260">
+   <img src="docs/img/ios-8-edit-widget.jpg" width="560">
+
+   <img src="docs/img/ios-9-home.jpg" width="420">
 
 **Екран блокування (за бажанням):** утримуй екран блокування → **Налаштувати** → **Замкнений екран** → натисни на місце під годинником → **Scriptable** → обери віджет → натисни на нього → **Script: USOS Widget**.
-
-<img src="docs/img/ios-10-lockscreen.png" width="260">
 
 > Інсталятор тепер можна видалити: у Scriptable проведи вліво по **Untitled Script** → **Delete**. Або залиш його, щоб пізніше оновити USOS Widget.
 

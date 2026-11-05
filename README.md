@@ -71,7 +71,7 @@ Do this on the iPhone, in Safari. The screenshots show one university's USOSweb 
    Safari.open("scriptable:///run/" + encodeURIComponent("USOS Widget"));
    ```
 
-   <img src="docs/img/ios-2-copy.png" width="260">
+   <img src="docs/img/ios-2-copy.jpg" width="420">
 
 2. Open **Scriptable** → tap **+** in the top-right corner → tap the empty page → **Paste**.
 
@@ -79,7 +79,7 @@ Do this on the iPhone, in Safari. The screenshots show one university's USOSweb 
 
 3. Tap **▶** in the bottom-right corner. This downloads **USOS Widget** and starts it. If nothing opens, tap **Done**, then tap **USOS Widget** in the script list.
 
-   <img src="docs/img/ios-4-run.jpg" width="300">
+   <img src="docs/img/ios-4-run.jpg" width="260">
 
 ### Step 4. Paste your link
 
@@ -87,22 +87,20 @@ A window **Your USOS link** appears. Tap the field → **Paste** → **Save**. Y
 
 When Scriptable asks to send notifications, tap **Allow** — that's how you'll hear about timetable changes.
 
-<img src="docs/img/ios-5-link.png" width="260"> <img src="docs/img/ios-6-list.png" width="260">
+<img src="docs/img/ios-5-link.jpg" width="260"> <img src="docs/img/ios-6-list.jpg" width="260">
 
 ### Step 5. Add the widget
 
 1. On the home screen, hold an empty spot until the icons jiggle. Tap **Edit** in the top-left corner (on older iOS: **+**) → **Add Widget**.
 2. Find **Scriptable** and pick a size: **small** = next class, **medium** or **large** = timetable → **Add Widget**.
 
-   <img src="docs/img/ios-7-add-widget.png" width="260">
-
 3. Hold the new widget → **Edit Widget** → **Script** → **USOS Widget**. Tap outside the window.
 
-   <img src="docs/img/ios-8-edit-widget.png" width="260"> <img src="docs/img/ios-9-home.png" width="260">
+   <img src="docs/img/ios-8-edit-widget.jpg" width="560">
+
+   <img src="docs/img/ios-9-home.jpg" width="420">
 
 **Lock screen (optional):** hold the lock screen → **Customize** → **Lock Screen** → tap the area under the clock → **Scriptable** → pick a widget → tap it → **Script: USOS Widget**.
-
-<img src="docs/img/ios-10-lockscreen.png" width="260">
 
 > You can delete the installer now: in Scriptable swipe left on **Untitled Script** → **Delete**. Or keep it and run it again later to update USOS Widget.
 
